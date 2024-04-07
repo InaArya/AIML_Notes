@@ -1,4 +1,4 @@
-## Data:
+# Data:
 # Quantitative:
 •	Data that can be counted or measured in numerical values
 •	Ex: Height in feet, age in years, and weight in pounds
