@@ -25,3 +25,10 @@ Data augmentation is the process of artificially generating new data from existi
 ![ ![image](https://github.com/InaArya/AIML_Notes/assets/95537907/b8d8d19a-db9d-408d-915a-d100d7a7cddb)
 ]
 
+# Generative vs Discrimintive Models
+
+![![image](https://github.com/InaArya/AIML_Notes/assets/95537907/008e4e8e-b1d2-4427-9fe5-8780cae965db)
+]
+
+#Dall-e
+Dall-e are text-to-image models developed by OpenAI using deep learning methodologies to generate digital images from natural language descriptions, called "prompts."
