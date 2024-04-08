@@ -1,7 +1,7 @@
 # What is Deep Learning?
 Deep learning is a method in artificial intelligence (AI) that teaches computers to process data in a way that is inspired by the human brain. Deep learning models can recognize complex patterns in pictures, text, sounds, and other data to produce accurate insights and predictions. You can use deep learning methods to automate tasks that typically require human intelligence, such as describing images or transcribing a sound file into text. 
 
-![ ![Uploading image.png…]()
+![ ![image](https://github.com/InaArya/AIML_Notes/assets/95537907/e0d81818-eb9a-4655-b35b-c2591dfd5fa8)
 ]
 
 # Why is deep learning important?
