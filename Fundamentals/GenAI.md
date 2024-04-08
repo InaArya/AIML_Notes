@@ -12,3 +12,16 @@ The most common way to train a generative AI model is to use supervised learning
 - Improve customer interactions through enhanced chat and search experiences 
 - Explore vast amounts of unstructured data through conversational interfaces and summarizations 
 - Assist with repetitive tasks like replying to requests for proposals (RFPs), localizing marketing content in five languages, and checking customer contracts for compliance, and more
+
+# Use cases:
+Can craft human like text, useful for Content creation, copywrite, programming
+Forms realistic images  such as artworks, designs or even human faces. Useful in graphic design, gaming and entertainment
+Can compose music or generate new sounds, useful in music industry, film and sound
+Generates molecular structure of new drugs, useful for medical discovery
+
+# What is Data Augmentation?
+Data augmentation is the process of artificially generating new data from existing data, primarily to train new machine learning (ML) models. Data augmentation artificially increases the dataset by making small changes to the original data. Generative artificial intelligence (AI) solutions are now being used for high-quality and fast data augmentation in various industries.
+
+![ ![image](https://github.com/InaArya/AIML_Notes/assets/95537907/b8d8d19a-db9d-408d-915a-d100d7a7cddb)
+]
+
