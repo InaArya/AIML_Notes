@@ -6,10 +6,6 @@
 ]
 
 ![ 
-![image](https://github.com/InaArya/AIML_Notes/assets/95537907/2c2ae048-20e7-40f9-a89b-644e46ab2fcf)
-]
-
-![ 
 
 ![image](https://github.com/InaArya/AIML_Notes/assets/95537907/47e528cc-787f-4be0-be50-5510da5ca14d)
 ]
